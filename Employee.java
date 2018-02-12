@@ -7,7 +7,7 @@
 
 /*
 	This program calculates the pay of an employee based on
-skill level and wether he obtained overtime or not.  It also
+skill level and whether he obtained overtime or not.  It also
 adds the insurance deductions if the employee has enlisted
 into those options.
 */
